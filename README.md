@@ -1,7 +1,7 @@
 # gittest
 
 prvni
-jeden a pul
+stoooo
 druhy
 treti 
 ctvrty
