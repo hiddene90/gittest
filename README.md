@@ -1,7 +1,6 @@
 # gittest
 
-prvni
-jeden a ctvrt
+jedna
 druhy
 
 treti 
