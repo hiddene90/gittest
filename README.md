@@ -1,7 +1,7 @@
 # gittest
 
-prvni
-stoooo
+jedna
 druhy
+
 treti 
 ctvrty
